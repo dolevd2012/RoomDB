@@ -26,3 +26,9 @@ dependencies {
 	implementation 'com.github.dolevd2012:RoomDataLib:1.00.01'
 }
 ```
+## Usage
+Get the instance of RoomData:
+```
+RoomDB database;
+database = RoomDB.getInstance(this);
+```
