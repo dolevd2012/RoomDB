@@ -43,6 +43,13 @@ Default value is empty String
 
 ```
 MainData data = new MainData();
-data.setInt("Any int you want"); 
+data.setNumber("Any int you want"); 
 ```
 Default value is -1
+
+```
+MainData data = new MainData();
+data.setID("Any int you want"); 
+```
+i do not recommend doing that because you may 
+override another MainData in your database
