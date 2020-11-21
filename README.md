@@ -34,8 +34,10 @@ Get the instance of RoomData:
 RoomDB database;
 database = RoomDB.getInstance(this);
 ```
-## Creating  
-
-
-
+## Creating class to add values to the database
+```
+MainData data = new MainData();
+data.setString("Any String you want"); 
+```
+### Default value is empty String
 
