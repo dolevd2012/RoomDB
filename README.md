@@ -34,7 +34,7 @@ Get the instance of RoomData:
 RoomDB database;
 database = RoomDB.getInstance(this);
 ```
-## Creating class to add values to the database
+## Creating class + adding attributes
 ```
 MainData data = new MainData();
 data.setString("Any String you want"); 
@@ -53,3 +53,8 @@ data.setID("Any int you want");
 ```
 i do not recommend doing that because you may 
 override another MainData in your database
+
+## Adding the MainData to the database
+```
+database.mainDao().insert(data);
+```
