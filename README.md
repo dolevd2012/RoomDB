@@ -39,5 +39,10 @@ database = RoomDB.getInstance(this);
 MainData data = new MainData();
 data.setString("Any String you want"); 
 ```
-### Default value is empty String
+Default value is empty String
 
+```
+MainData data = new MainData();
+data.setInt("Any int you want"); 
+```
+Default value is -1
