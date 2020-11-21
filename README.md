@@ -58,3 +58,4 @@ override another MainData in your database
 ```
 database.mainDao().insert(data);
 ```
+# Queries we can use 
