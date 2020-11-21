@@ -3,12 +3,12 @@
 
 
 
-##Requirement 
+#Requirement 
 minSdkVersion 23
 
 
 
-##Repository
+#Repository
 Add this in your root build.gradle file (not your module build.gradle file):
 
 allprojects {
