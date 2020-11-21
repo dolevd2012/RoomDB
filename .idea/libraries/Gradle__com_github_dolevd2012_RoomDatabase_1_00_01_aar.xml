@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dolevd2012:RoomDatabase:1.00.01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a697cc7eeae63b4e2dc6cecc9fcf677/jetified-RoomDatabase-1.00.01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a697cc7eeae63b4e2dc6cecc9fcf677/jetified-RoomDatabase-1.00.01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a697cc7eeae63b4e2dc6cecc9fcf677/jetified-RoomDatabase-1.00.01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dolevd2012/RoomDatabase/1.00.01/da0d0d711826d66e9d0b1c284a5a2fc98099d7e0/RoomDatabase-1.00.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
