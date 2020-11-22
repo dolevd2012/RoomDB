@@ -1,6 +1,6 @@
 # RoomDataLib
 [![](https://jitpack.io/v/dolevd2012/RoomDataLib.svg)](https://jitpack.io/#dolevd2012/RoomDataLib)
-[![](https://img.shields.io/github/license/dolevd2012/RoomDataLib)
+![](https://img.shields.io/github/license/dolevd2012/RoomDataLib)
 
 # Database Columns
 
