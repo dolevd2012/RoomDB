@@ -5,7 +5,8 @@
 
 
 # DESCRIPTION
-This lib makes it easy to transfer data in our activities using database unlike sharedPref that requires coding in each activity
+1.This lib makes it easy to transfer data in our activities using database unlike sharedPref that requires coding in each activity
+2.Easy way to store huge amount of data
 
 
 # Database Columns
