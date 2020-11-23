@@ -2,6 +2,12 @@
 [![](https://jitpack.io/v/dolevd2012/RoomDataLib.svg)](https://jitpack.io/#dolevd2012/RoomDataLib)
 ![](https://img.shields.io/github/license/dolevd2012/RoomDataLib?color=blue)
 ![](https://img.shields.io/github/issues/dolevd2012/RoomDataLib?color=purple)
+
+
+# DESCRIPTION
+This lib makes it easy to transfer data in our activities using database unlike sharedPref that requires coding in each activity
+
+
 # Database Columns
 
 ![readme md](https://user-images.githubusercontent.com/74798510/99882821-da24e900-2c2b-11eb-8632-d46deb37b8d3.png)
