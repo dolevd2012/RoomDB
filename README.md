@@ -63,6 +63,12 @@ Default value is -1
 
 ```
 MainData data = new MainData();
+data.setBool("Any boolean you want")
+```
+Default value is false
+
+```
+MainData data = new MainData();
 data.setID("Any int you want"); 
 ```
 i do not recommend doing that because you may 
