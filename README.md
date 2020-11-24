@@ -12,7 +12,7 @@
 
 # Database Columns
 
-![readme md](https://user-images.githubusercontent.com/74798510/99882821-da24e900-2c2b-11eb-8632-d46deb37b8d3.png)
+![MainData](https://user-images.githubusercontent.com/74798510/100033073-13af4d00-2e02-11eb-8bb2-a93f07936503.png))
 
 ## Requirement 
 ```minSdkVersion 23```
