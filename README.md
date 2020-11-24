@@ -3,6 +3,10 @@
 ![](https://img.shields.io/github/license/dolevd2012/RoomDataLib?color=blue)
 ![](https://img.shields.io/github/issues/dolevd2012/RoomDataLib?color=purple)
 
+## New Update
+Room database supports bool values now
+new query added to recieve all elements by their boolean value
+
 
 # DESCRIPTION
 1.This lib makes it easy to transfer data in our activities using database unlike sharedPref that requires coding in each activity
