@@ -1,3 +1,4 @@
+
 package com.example.dbroom;
 
 import androidx.room.ColumnInfo;
@@ -16,6 +17,10 @@ public class MainData implements Serializable {
     private String string;
     @ColumnInfo(name = "INT" ,defaultValue = "-1")
     private int number;
+
+
+    @ColumnInfo(name = "BOOL" ,defaultValue = "false")
+    private boolean bool;
 
     public int getID() {
         return ID;
@@ -39,5 +44,13 @@ public class MainData implements Serializable {
 
     public void setNumber(int number) {
         this.number = number;
+    }
+
+    public boolean getBool() {
+        return bool;
+    }
+
+    public void setBool(boolean bool) {
+        this.bool = bool;
     }
 }
