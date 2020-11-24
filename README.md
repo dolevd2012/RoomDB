@@ -5,6 +5,7 @@
 
 ## New Update
 Room database supports bool values now
+
 new query added to recieve all elements by their boolean value
 
 
