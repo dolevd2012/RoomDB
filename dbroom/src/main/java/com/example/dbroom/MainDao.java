@@ -38,6 +38,9 @@ public interface MainDao {
 
     @Query("SELECT * FROM DataB")
     List<MainData> getAll();
+    
+    @Query("SELECT * FROM DataB WHERE BOOL= :bool")
+    List<MainData> getAllByBool(boolean bool);
 
 
 }
