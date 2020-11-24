@@ -68,4 +68,4 @@ override another MainData in your database
 database.mainDao().insert(data);
 ```
 # Queries we can use 
-![Untitled md](https://user-images.githubusercontent.com/74798510/99883354-8e743e80-2c2f-11eb-9274-f0e6975da25a.png)
+![query](https://user-images.githubusercontent.com/74798510/100033111-2cb7fe00-2e02-11eb-83e0-60f0a6598eff.png)
